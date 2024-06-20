@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.project-image {
+  width: 100%;
+}
+.project-content-container {
+  margin-top: 5px;
+}
+.project-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.project-duration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.project-title {
+  font-size: 18px;
+  color: #171f46;
+}
+.project-duration {
+  font-size: 12px;
+  color: #171f46;
+  font-weight: 500;
+  margin-left: 4px;
+}
+.project-description {
+  font-size: 14px;
+  color: #1e293b;
+  font-weight: 500;
+}
+.project-link {
+  text-decoration: none;
+  color: #0967d2;
+  font-size: 15px;
+  font-weight: 500;
+}
